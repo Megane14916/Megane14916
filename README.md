@@ -1,5 +1,7 @@
-## Hi there 👋
-My name is yoanz!
+## Hi there, I'm yoanz 👋
+- I'm a university student in Japan.
+- I’m currently learning Web enjineering.
+- I live in Sendai!
 
 ![](https://komarev.com/ghpvc/?username=Megane14916)
 
