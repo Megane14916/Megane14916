@@ -8,13 +8,13 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,nodejs,react,nextjs,py,flask,fastapi,postgres,sqlite,supabase,gcp,docker,vercel,git,github,vite,vscode&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,nodejs,react,nextjs,py,flask,fastapi,postgres,sqlite,supabase,gcp,docker,vercel,git,github,vite&theme=dark&perline=10" width="60%" />
 </p>
 
 ## 🚶 Activity
 
-<table align="center">
+<table align="center" width="60%">
   <tr>
     <td colspan="2">
       <img
@@ -54,4 +54,3 @@
     </td>
   </tr>
 </table>
-
